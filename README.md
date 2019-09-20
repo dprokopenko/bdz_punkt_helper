@@ -18,4 +18,4 @@
 6) Зачем вам ```dicts.json``` я не знаю, но вы можете скопировать данные из ```table.txt``` и вставить в гугл таблицы и получите что-то похожее на [это](https://docs.google.com/spreadsheets/d/1hnNYbh-6_IZ3NToqdzKbYkuXc9RHAe24oYrhzifV4_k/edit?usp=sharing)
 
 
-![alt text](https://i.gifer.com/y4.gif)
+![alt text](https://github.com/timurvankov/bdz_punkt_helper/blob/master/y4.gif)
