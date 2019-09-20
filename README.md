@@ -16,3 +16,6 @@
 4) Ввести запрашиваемые данные
 5) Будет создано 2 файла: ```dicts.json``` и ```table.txt```
 6) Зачем вам ```dicts.json``` я не знаю, но вы можете скопировать данные из ```table.txt``` и вставить в гугл таблицы и получите что-то похожее на [это](https://docs.google.com/spreadsheets/d/1hnNYbh-6_IZ3NToqdzKbYkuXc9RHAe24oYrhzifV4_k/edit?usp=sharing)
+
+
+![alt text](https://i.gifer.com/y4.gif)
